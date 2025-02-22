@@ -12,7 +12,7 @@ A simple and fun dice game built with **React** and **Vite**. Roll the dice, sco
 
 ## 🖥️ Screenshots
 
-![Dice Game Screenshot](./screenshots/dice-game.png)
+![Dice Game Screenshot](./screenshots/)
 
 ---
 
